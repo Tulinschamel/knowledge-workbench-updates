@@ -1,2 +1,2 @@
-# knowledge-workbench-updates
-知识库工作台官方更新发布仓库
+# knowledge-workbench
+个人学习使用知识库工作台仓库
